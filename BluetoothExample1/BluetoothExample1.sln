@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluetoothExample1", "BluetoothExample1\BluetoothExample1.csproj", "{D2C0132E-7A2E-424F-A300-CB6CE8DF605B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2C0132E-7A2E-424F-A300-CB6CE8DF605B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2C0132E-7A2E-424F-A300-CB6CE8DF605B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2C0132E-7A2E-424F-A300-CB6CE8DF605B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D2C0132E-7A2E-424F-A300-CB6CE8DF605B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2C0132E-7A2E-424F-A300-CB6CE8DF605B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2C0132E-7A2E-424F-A300-CB6CE8DF605B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC53D8EE-0A39-4233-AA2C-ADC4C17B7B02}
+	EndGlobalSection
+EndGlobal
